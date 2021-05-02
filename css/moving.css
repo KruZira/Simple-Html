@@ -1,0 +1,7 @@
+animation: myMove 2s linear 0s 1 normal; 
+
+
+@keyframes myMove {
+    0% { left: 0px; }
+    100% { left: 200px; }
+}
